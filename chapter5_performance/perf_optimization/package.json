@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "perf_optimization",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,8 +8,6 @@
     "react-redux": "^6.0.1",
     "react-scripts": "2.1.5",
     "redux": "^4.0.1",
-    "redux-devtools-extension": "^2.13.8",
-    "redux-logger": "^3.0.6",
     "reselect": "^4.0.0"
   },
   "scripts": {
@@ -27,5 +25,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {}
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6"
+  }
 }

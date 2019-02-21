@@ -26,5 +26,5 @@ TodoItem.propTypes = {
     text: PropTypes.string.isRequired
 }
 
-export default connect()(TodoItem);
-//export default TodoItem;
+//export default connect()(TodoItem);
+export default TodoItem;
