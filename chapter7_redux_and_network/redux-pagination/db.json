@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "info":{
+        "current":1,
+        "amount":2,
+        "pageSize":5
+      },
+      "data": [
+        {
+          "id": 1,
+          "title": "Featured post1",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 2,
+          "title": "Featured post2",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 3,
+          "title": "Featured post3",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 4,
+          "title": "Featured post4",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 5,
+          "title": "Featured post5",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "amount": 10,
+      "data": {[
+        {
+          "id": 6,
+          "title": "Featured post6",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 7,
+          "title": "Featured post7",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 8,
+          "title": "Featured post8",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 9,
+          "title": "Featured post9",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        },
+        {
+          "id": 10,
+          "title": "Featured post10",
+          "date": "Nov 12",
+          "description": "This is a wider card with supporting text below as a natural lead-in to additional content."
+        }
+      ]}
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
